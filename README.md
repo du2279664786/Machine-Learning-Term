@@ -1,2 +1,2 @@
 # Sklearn-projoct
-包含学习Sklearn基本的算法
+学习人工智能课程，关于机器学习的资料
